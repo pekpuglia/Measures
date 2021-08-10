@@ -1,0 +1,7 @@
+name = "Measures"
+uuid = "f4f38061-3715-4e98-86aa-ec5db1340fd6"
+authors = ["Pedro Puglia <pepuglia@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
